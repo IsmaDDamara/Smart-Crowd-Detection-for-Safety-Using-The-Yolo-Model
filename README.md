@@ -22,8 +22,11 @@ Crowd Detection Using YOLO adalah proyek machine learning yang bertujuan untuk m
 - Darknet – Framework pelatihan dan inferensi model
 
 ## 🎥 Demo Proyek
-
 Tonton video demo penggunaan sistem ini di sini:
+
+https://github.com/user-attachments/assets/f0d34361-7634-40c6-9e16-b35d6620db64
+
+
 
 ## 📊 Dataset
 
