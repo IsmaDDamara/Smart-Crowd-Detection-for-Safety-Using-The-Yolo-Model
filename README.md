@@ -1,6 +1,12 @@
-# **📸 Crowd Detection Using YOLO**
+# **📸 Crowd Detection Using YOLOv4**
 
 Crowd Detection Using YOLO adalah proyek machine learning yang bertujuan untuk mendeteksi kerumunan secara otomatis menggunakan algoritma You Only Look Once (YOLO). Sistem ini dapat digunakan untuk memantau area publik dan memberikan peringatan jika terjadi kerumunan berlebih, sehingga berguna dalam penerapan protokol keamanan, pengawasan, dan manajemen keramaian.
+
+## 🎥 Demo Proyek
+Tonton video demo penggunaan sistem ini di sini:
+
+https://github.com/user-attachments/assets/f0d34361-7634-40c6-9e16-b35d6620db64
+
 
 ## 🎯 Tujuan Proyek
 
@@ -20,12 +26,6 @@ Crowd Detection Using YOLO adalah proyek machine learning yang bertujuan untuk m
 - OpenCV – Pengolahan gambar dan video
 - Python – Bahasa pemrograman utama
 - Darknet – Framework pelatihan dan inferensi model
-
-## 🎥 Demo Proyek
-Tonton video demo penggunaan sistem ini di sini:
-
-https://github.com/user-attachments/assets/f0d34361-7634-40c6-9e16-b35d6620db64
-
 
 
 ## 📊 Dataset
