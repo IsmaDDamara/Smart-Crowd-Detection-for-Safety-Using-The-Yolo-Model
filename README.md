@@ -1,54 +1,56 @@
-# **📸 Crowd Detection Using YOLO**
+# **📸 Smart Crowd Detection for Safety Using the YOLO Model**
 
-Crowd Detection Using YOLO adalah proyek machine learning yang bertujuan untuk mendeteksi kerumunan secara otomatis menggunakan algoritma You Only Look Once (YOLO). Sistem ini dapat digunakan untuk memantau area publik dan memberikan peringatan jika terjadi kerumunan berlebih, sehingga berguna dalam penerapan protokol keamanan, pengawasan, dan manajemen keramaian.
+**Crowd Detection Using YOLO** is a machine learning project designed to automatically detect crowds using the **You Only Look Once (YOLO)** algorithm. This system can be used to monitor public areas and issue alerts in cases of overcrowding, making it useful for safety protocols, surveillance, and crowd management.
 
-## 🎯 Tujuan Proyek
+## 🎯 Project Objectives
 
-- Mendeteksi dan menghitung jumlah orang dalam suatu area.
-- Memberikan notifikasi jika kerumunan melebihi ambang batas tertentu.
-- Menggunakan model YOLO untuk deteksi objek secara real-time.
+* Detect and count the number of people in a given area.
+* Provide alerts when crowd density exceeds a defined threshold.
+* Use the YOLO model for real-time object detection.
 
-## 📦 Fitur Utama
+## 📦 Key Features
 
-- 🔍 Deteksi Real-Time: Menggunakan YOLO untuk mendeteksi kerumunan dalam video atau kamera langsung.
-- 📊 Perhitungan Jumlah Orang: Menghitung jumlah individu dalam frame.
-- 🚨 Peringatan Kerumunan: Memberikan peringatan ketika jumlah melebihi batas yang ditentukan.
+* 🔍 **Real-Time Detection**: Utilizes YOLO to detect crowds in live video or camera feeds.
+* 📊 **People Counting**: Counts the number of individuals in each frame.
+* 🚨 **Crowd Alert System**: Triggers alerts when the number of people exceeds a specified limit.
 
-## 🧠 Teknologi yang Digunakan
+## 🧠 Technologies Used
 
-- YOLO (You Only Look Once) – YOLOv4 mini
-- OpenCV – Pengolahan gambar dan video
-- Python – Bahasa pemrograman utama
-- Darknet – Framework pelatihan dan inferensi model
+* **YOLO (You Only Look Once)** – YOLOv4-tiny
+* **OpenCV** – For image and video processing
+* **Python** – Primary programming language
+* **Darknet** – Framework for training and inference
 
-## 🎥 Demo Proyek
+## 🎥 Project Demo
 
-Tonton video demo penggunaan sistem ini di sini:
+Watch the demo video of the system in action here:
+*(Add your video link here)*
 
 ## 📊 Dataset
 
-Kamu dapat menemukan dataset untuk pelatihan dan pengujian model di: https://www.crowdhuman.org/
+The dataset used for training and testing the model is available at:
+👉 [CrowdHuman Dataset](https://www.crowdhuman.org/)
 
-## 🚀 Cara Menjalankan
+## 🚀 How to Run
 
-**Clone repo:**
+**Clone the repository:**
 
 ```bash
 git clone https://github.com/IsmaDDamara/iSense_Smart-Crowd-Detection-with-ML-Model.git
 ```
 
-**Arahkan ke folder test**
+**Navigate to the test directory:**
 
 ```bash
 cd test/opencv_dnn
 ```
 
-**Jalankan deteksi:**
+**Run the detection script:**
 
 ```bash
 python opencv_video.py
 ```
 
-## 📄 Lisensi
+## 📄 License
 
-Proyek ini menggunakan lisensi MIT License.
+This project is licensed under the **MIT License**.
