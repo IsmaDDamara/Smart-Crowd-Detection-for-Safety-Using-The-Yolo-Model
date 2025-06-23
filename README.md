@@ -24,7 +24,7 @@
 ## 🎥 Project Demo
 
 Watch the demo video of the system in action here:
-*(Add your video link here)*
+<video controls src="test\video_output\test.mp4" title="Title"></video>
 
 ## 📊 Dataset
 
